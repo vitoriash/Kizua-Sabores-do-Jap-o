@@ -4,6 +4,6 @@
     --destaque: #B40000;
     --links:#B40000;
 }
-body{
+.cabecalho{
     background-color:var(--cor-de-fundo);
 }
