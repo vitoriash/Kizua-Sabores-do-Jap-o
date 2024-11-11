@@ -1,8 +1,24 @@
 .cabecalho-menu-hamburguer{
     width: 24px;
     height: 24px;
-    background-image: url("../img/Menu.png");
+    background-image: url("../img/Frame\ 20.png");
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.cabecalho{
+    background-color: var(--cor-do-texto);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container-imagem{
+    padding: 1em;
 }
