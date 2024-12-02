@@ -9,3 +9,30 @@
 .cabecalho{
     background-color:var(--cor-de-fundo);
 }
+
+.abacate{
+    display: flex;
+    justify-content: space-around;
+    font-size: 5%;
+}
+
+.japao{
+    display:flex;
+    justify-content: space-between;
+}
+
+.uva{
+   width: 24%;
+}
+
+.vinho{
+  width: 24%;
+}
+
+.nona{
+    width: 24%;
+}
+
+.tia{
+    width: 24%;
+}
